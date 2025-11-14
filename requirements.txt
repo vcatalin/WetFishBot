@@ -1,0 +1,6 @@
+pynput
+pillow
+pyautogui
+soundcard
+opencv-python
+numpy
